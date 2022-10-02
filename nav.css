@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
+nav >a{
+    background-color: #001220;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    transition-duration: .5s;
+    font-size: 1.5em;
+}
+nav >a:hover{
+    background-color: #3827a6;
+}
+
+nav {
+    background-color: #000b13;
+    padding: 10px;
+    margin: 0px;
+    font-family: 'Noto Sans Mono', monospace;
+}
